@@ -1,0 +1,14 @@
+{
+    "python.pythonPath": "/Users/ziyocode/.pyenv/versions/introducing-python/bin/python",
+    "editor.fontFamily": "Menlo",
+    "editor.fontSize": 15,
+    "markdown.preview.fontSize": 16,
+    "python.linting.pycodestyleEnabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.formatting.provider": "black",
+    "python.formatting.blackArgs": [
+        "--line-length",
+        "100"
+    ],
+    "editor.formatOnSave": true
+}
