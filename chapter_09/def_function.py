@@ -10,4 +10,4 @@ def agree():
 if agree():
     print('Splendid!')
 else:
-    print("That was unexpected.")
+    print("That was changed.")
