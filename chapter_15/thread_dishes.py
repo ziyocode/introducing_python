@@ -25,4 +25,3 @@ if __name__ == "__main__":
         dishes = ["salad", "bread", "entree", "dessert"]
         washer(dishes, dish_queue)
         dish_queue.join()
-        print("test")
